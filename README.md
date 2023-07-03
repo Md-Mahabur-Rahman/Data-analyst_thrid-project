@@ -1,1 +1,1 @@
-# Data-analyst_thrid-project
+# Data-analyst_third-project
